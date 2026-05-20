@@ -6,19 +6,19 @@ Este projeto foi desenvolvido como atividade prática de Internet das Coisas (Io
 O sistema realiza a leitura da umidade e exibe os dados no monitor serial, podendo futuramente ser integrado com alertas, automações ou armazenamento em nuvem.
 
 Tecnologias Utilizadas
-Arduino / ESP32
+ESP32
 Linguagem C++
 Sensor de Umidade
 IDE Arduino
 ⚙️ Componentes Utilizados
-1x Microcontrolador (Arduino ou ESP32)
+1x Microcontrolador (ESP32)
 1x Sensor de Umidade
 Protoboard
 Jumpers
 Cabo USB
 Funcionamento
 
-O sensor realiza a leitura da umidade do ambiente/solo e envia os dados para o microcontrolador.
+O sensor realiza a leitura da umidade do solo e envia os dados para o microcontrolador.
 
 
 
